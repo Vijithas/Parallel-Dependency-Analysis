@@ -1,0 +1,14 @@
+﻿  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  Analyser.cpp
+  ActionsAndRules.cpp
+  AbstractTree.cpp
+  MetricExecutive.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  Generating Code...
+  ParallelDependencyExecutive.vcxproj -> E:\CourseWork\C++\HW3\x64\Debug\ParallelDependencyExecutive.exe
